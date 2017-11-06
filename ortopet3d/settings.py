@@ -26,6 +26,7 @@ SECRET_KEY = 'yo=2+-f1y*znz1h*3q)h8+nl9p*s4en*=cxf=^9iiujs(x#l4v'
 DEBUG = True
 
 ALLOWED_HOSTS = ['http://ortopet3d.pythonanywhere.com/', 'ortopet3d.pythonanywhere.com']
+# ALLOWED_HOSTS = ['127.0.0.1', 'admin.pythonanywhere.com']
 
 
 # Application definition
